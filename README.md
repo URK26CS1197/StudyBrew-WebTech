@@ -5,7 +5,7 @@ StudyBrew is a responsive web portal that helps students stay on top of their st
 Built as the **IA-3 Micro Project** for **25CS208: Web Technology** (2026-27, Odd Semester), School of Computer Science & Technology, Karunya Institute of Technology and Sciences (KITS).
 
 🔗 **Live website:** https://study-brew-lovat.vercel.app
-📦 **Repository:** https://github.com/URK6CS1197/studybrew-web-tech
+📦 **Repository:** https://github.com/URK26CS1197/studybrew-web-tech
 
 ---
 
